@@ -1,3 +1,4 @@
+```mermaid
 erDiagram
 
     ПОЛЬЗОВАТЕЛЬ ||--o{ ЗАПИСЬ : создает
@@ -50,3 +51,5 @@ erDiagram
         int id_продукта FK
         int id_типа FK
     }
+```
+
